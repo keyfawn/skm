@@ -1,0 +1,63 @@
+{
+  "ru_locale": "Язык установлен на русский",
+  "en_locale": "The language is set to English",
+
+  "btn_show_stat": "View statistics",
+  "btn_users": "Users",
+  "btn_mailing": "Mailing",
+  "btn_auto_mailing": "Auto-mailing",
+  "btn_products": "Products",
+
+  "inline_auto_mail": "Mail id{0}",
+  "inline_auto_mail_add": "Add new",
+  "inline_auto_mail_delete": "Delete",
+  "inline_auto_mail_cancel": "Cancel",
+  "inline_mail_with_btn": "With buttons ✅",
+  "inline_mail_without_btn": "Without buttons ❌",
+  "inline_yes": "Yes",
+  "inline_product_new": "Add new",
+  "inline_ok_delete": "Exactly delete",
+  "inline_add": "Add",
+  "inline_view_user": "View profile",
+  "inline_balance_user": "Set balance",
+  "admin_panel": "Admin panel",
+
+  "start": "hello, admin {0}!",
+  "pre_spam": "not spam",
+  "spam": "f*ck you, wait",
+
+  "new_user": "new user id{0} @{1}",
+  "new_upper": "new id replenishment{0} +{1} rub .",
+
+  "all_products": "All products:",
+  "new_product_photo": "Send photo new product",
+  "new_product_title": "Send title product",
+  "new_product_desc": "Send desc product",
+  "new_product_price": "Send price product",
+  "new_product_count": "Send count product",
+  "new_product_check": "Add this product?",
+  "new_product_example": "{0}\n\nDesc:\n{1}\n\nPrice: {2}\nCount: {3}\nFake-count: {4}",
+  "new_product_add": "Product was add",
+  "pre_delete_product": "Want you delete product id{0}?",
+  "delete_product": "Product id{0} was delete",
+
+  "mailing_with_btn": "Work mailing with buttons?",
+  "mailing_markup": "Write buttons at example:\n\n<code>[еее::https://t.me/durov] [ууу::https://t.me/durov]\n[яяя::https://google.com]</code>",
+  "mailing_text": "Write text for mailing\n\nIf there is an attachment, then the signature to it",
+  "mailing_check": "Is this supposed to be a mailing list?",
+  "mailing_finish": "The mailing list has been completed",
+  "mailing_stat": "<b>Statistics:</b>\n\nsent {0}\nnot sent: {1}",
+
+  "auto_mailing": "Here are all the auto-mailing",
+  "auto_mail": "Auto-mailing id{0}:\n\n{1}\n\nSending time: {2}:{3}",
+  "auto_mail_add_time": "Write the mailing time\nExample: <code>05:01</code>",
+  "auto_mailing_finish": "Auto-mailing has been added",
+  "auto_mail_delete": "The auto-mailing list has been deleted",
+
+  "all_users": "Here are all the users:",
+  "user": "<b>User</b>\nId: {0}\nUsername: @{1}\nFull name: {2}\nLanguage: {3}\nBalance: {4} RUB\nRegistration date: {5}",
+  "balance_user": "Send a number for the user's balance",
+  "balance_user_ok": "The balance has been changed",
+
+  "stat": "<b>Statistics:</b>\n\n<i>New users</i>\nFor today {0}\nIn a week {1}\nPer month {2}\nFor all time {3}\n\n<i>New deposits</i>\nFor today {4} rubles.\nPer week {5} rubles.\nPer month {6} rubles.\nFor the whole time {7} rubles."
+}

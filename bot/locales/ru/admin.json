@@ -1,0 +1,63 @@
+{
+  "ru_locale": "Язык установлен на русский",
+  "en_locale": "The language is set to English",
+
+  "btn_show_stat": "Посмотреть статистику",
+  "btn_users": "Пользователи",
+  "btn_mailing": "Рассылка",
+  "btn_auto_mailing": "Авторассылка",
+  "btn_products": "Товары",
+
+  "inline_auto_mail": "Рассылка id{0}",
+  "inline_auto_mail_add": "Добавить новую",
+  "inline_auto_mail_delete": "Удалить",
+  "inline_auto_mail_cancel": "Назад",
+  "inline_mail_with_btn": "С кнопками ✅",
+  "inline_mail_without_btn": "Без кнопок ❌",
+  "inline_yes": "Да",
+  "inline_product_new": "Добавить новое",
+  "inline_ok_delete": "Точно удалить",
+  "inline_add": "Добавить",
+  "inline_view_user": "Посмотреть профиль",
+  "inline_balance_user": "Установить баланс",
+  "admin_panel": "Админ панель",
+
+  "start": "привет, админ {0}!",
+  "pre_spam": "не спамь",
+  "spam": "заебал, теперь жди",
+
+  "new_user": "новый пользователь id{0} @{1}",
+  "new_upper": "новое пополнение id{0} +{1} руб.",
+
+  "all_products": "Вот все товары:",
+  "new_product_photo": "Отправь фотку нового товара",
+  "new_product_title": "Отправь название товара",
+  "new_product_desc": "Отправь описание товара",
+  "new_product_price": "Отправь стоимость товара в рублях в виде числа",
+  "new_product_count": "Отправь количество товара в виде числа",
+  "new_product_check": "Добавить такой товар?",
+  "new_product_example": "{0}\n\nОписание:\n{1}\n\nЦена: {2}\nКоличество: {3}\nФейк-количество: {4}",
+  "new_product_add": "Товар был добавлен",
+  "pre_delete_product": "Вы хотите удалить товар id{0}?",
+  "delete_product": "Товар id{0} был удалён",
+
+  "mailing_with_btn": "Сделать рассылку с кнопками?",
+  "mailing_markup": "Напиши кнопки по шаблону:\n\n<code>[еее::https://t.me/DiceOfFire] [ууу::https://t.me/DiceOfFire_bot]\n[яяя::https://google.com]</code>",
+  "mailing_text": "Напиши сообщение для рассылки\n\nЕсли имеется вложение, то подпись к нему",
+  "mailing_check": "Такая должна быть рассылка?",
+  "mailing_finish": "Рассылка была завершена",
+  "mailing_stat": "<b>Статистика:</b>\n\nотправлено {0}\nне отправлено: {1}",
+
+  "auto_mailing": "Вот все авто-рассылки:",
+  "auto_mail": "Авто-рассылка id{0}:\n\n{1}\n\nВремя отправки: {2}:{3}",
+  "auto_mail_add_time": "Напиши время рассылки\nПример: <code>05:01</code>",
+  "auto_mailing_finish": "Авто-рассылка была добавлена",
+  "auto_mail_delete": "Авто-рассылка была удалена",
+
+  "all_users": "Вот все пользователи:",
+  "user": "<b>Пользователь</b>\nId: {0}\nUsername: @{1}\nПолное имя: {2}\nЯзык: {3}\nБаланс: {4} руб.\nДата регистрации: {5}",
+  "balance_user": "Отправь число для баланса пользователя",
+  "balance_user_ok": "Баланс был изменён",
+
+  "stat": "<b>Статистика:</b>\n\n<i>Новые пользователи</i>\nЗа сегодня {0}\nЗа неделю {1}\nЗа месяц {2}\nЗа всё время {3}\n\n<i>Новые пополнения</i>\nЗа сегодня {4} руб.\nЗа неделю {5} руб.\nЗа месяц {6} руб.\nЗа всё время {7} руб."
+}

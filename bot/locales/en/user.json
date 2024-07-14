@@ -1,0 +1,31 @@
+{
+  "ru_locale": "Язык установлен на русский",
+  "en_locale": "The language is set to English",
+
+  "btn_products": "Products",
+  "btn_shopping": "Shopping",
+  "btn_profile": "Profile",
+  "btn_about": "About us",
+
+  "inline_product_buy": "Buy",
+  "inline_balance": "Top up balance",
+  "inline_pay_balance": "Pay",
+
+  "start": "hello, {0}!",
+  "pre_spam": "not spam",
+  "spam": "f*ck you, wait",
+
+  "about": "The text about us",
+
+  "small_balance": "Insufficient funds on the balance sheet",
+  "product": "{0}\n\n{1}\n\nPrice: {2} rub.\nQuantity: {3}",
+  "non_product": "There are no products available at the moment",
+  "product_end": "End",
+
+  "profile": "Profile:\nid: {0}\nLanguage: {1}\nregistration date: {2}\nbalance: {3} RUB.",
+  "method_balance": "Choose a deposit method",
+  "crypto_method": "Send the deposit amount in USDT from 1\nExample: 10",
+  "epay_method": "Send the deposit amount in rub. from 300. The commission is 20%\nExample: 500",
+  "pay_balance": "Pay by clicking on the link. The verification will happen automatically\nAvailable for 5 minutes",
+  "upper_balance": "Replenishment of the balance by {0} rub."
+}
